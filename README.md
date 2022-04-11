@@ -32,14 +32,6 @@ Web for add anything network -> https://chainlist.org/
 Emerald Faucet: https://faucet.testnet.oasis.dev/
 
 
-## Author
-
-👤 **Alberto Cruz Luis**
-
-* Website: albertocruzluis.com
-* Twitter: [@albertocruzdev](https://twitter.com/albertocruzdev)
-* Github: [@AlbertoCruzLuis](https://github.com/AlbertoCruzLuis)
-* LinkedIn: [@albertocruzluis](https://linkedin.com/in/albertocruzluis)
 
 ## Show your support
 
